@@ -4,7 +4,7 @@ body
   height: 100%;
   margin: 0;
 }
-h1
+h1, nav, #featured-property
 {
-  align-items: center;
+  : center;
 }
