@@ -4,7 +4,7 @@ body
   height: 100%;
   margin: 0;
 }
-h1, nav, #featured-property
+h1, nav
 {
   text-align: center;
 }
@@ -17,5 +17,5 @@ nav a
 #featured-property p 
 {
   width: 800px;
-  
+  text-align: center;
 }
