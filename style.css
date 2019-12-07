@@ -4,7 +4,7 @@ body
   height: 100%;
   margin: 0;
 }
-h1, nav
+h1, nav, #featured-property img
 {
   text-align: center;
 }
