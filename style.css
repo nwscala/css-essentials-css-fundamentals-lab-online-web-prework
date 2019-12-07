@@ -12,7 +12,7 @@ nav a
 {
   padding-right: 10px;
   padding-left: 10px;
-  background-color: #a3b677;
+  background-color: gray;
 }
 #featured-property p 
 {
@@ -28,5 +28,5 @@ nav a
 {
   float: left;
   width: 25%;
-  
+  background-color: red;
 }
