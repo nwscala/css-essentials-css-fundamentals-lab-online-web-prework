@@ -4,7 +4,7 @@ body
   height: 100%;
   margin: 0;
 }
-h1, nav, #featured-property
+h1
 {
   margin-left: auto;
   margin-right: auto;
