@@ -6,5 +6,5 @@ body
 }
 h1, nav, #featured-property
 {
-  : center;
+  margin: auto;
 }
