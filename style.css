@@ -1,6 +1,10 @@
-body {
+body 
+{
   width: 100%;
   height: 100%;
   margin: 0;
 }
-h1, nav, #featured_property
+h1, nav, #featured-property
+{
+  align-content: center;
+}
